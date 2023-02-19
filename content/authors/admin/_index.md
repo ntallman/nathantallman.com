@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Nathan Tallman
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Nathan
+last_name: Tallman
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Digital Preservation Librarian
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Penn State University
+    url: https://www.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed infrastructure, appraisal and selection, and documentation startegy.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Preservation
+  - Cloud Computing
+  - Appraisal and Selection
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Master of Library Science
+      institution: State University of New York at Buffalo
       year: 2008
+    - course: BS in Business Administration with Human Resources Concentration
+      institution: State University of New York at Buffalo
+      year: 2005
+    - course: AS in Business Administration
+      institution: Monroe County Community College
+      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
