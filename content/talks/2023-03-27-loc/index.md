@@ -9,17 +9,17 @@ address:
   region: DC
   postcode: '20540'
   country: United States
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: An update on Project Mycelium from the MetaArchive Cooperative.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 date: '2023-03-28'
 all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
-authors: [admin]
+authors: [admin, Glenn Heinle]
 tags: [sustainability, distributed digital preservation]
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Wally Gobetz**](https://www.flickr.com/photos/wallyg/3659018552)'
   focal_point: Right
 url_pdf: ''
 url_slides: ''

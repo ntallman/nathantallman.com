@@ -17,7 +17,7 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
-        - title: Digital Preservation Librarian
+        - title: Digital Preservation Librarian, Assistant Librarian
           company: Penn State University
           company_url: 'https://libraries.psu.edu/'
           company_logo:
@@ -25,9 +25,9 @@ sections:
           date_start: '2017-02-01'
           date_end: ''
           description: |2-
-              Currently the academic rank of Assistant Librarian.
+              * Something
 
-        - title: Digital Content Strategist
+        - title: Digital Content Strategist, Associate Librarian
           company: University of Cincinnati
           company_url: 'https://libraries.uc.edu/'
           company_logo:
@@ -35,7 +35,6 @@ sections:
           date_start: '2014-01-01'
           date_end: '2017-01-01'
           description: |2-
-            Earned the academic rank of Associate Librarian.
               * Facilitated a matrix team of library liaisons, archivists, records managers, technical librarians, repository developers, and other specialists (e.g., metadata, scholarly communication) in the planning, budgeting, strategy formation, and creation of digital content.
               * Coordinated or performed all aspects of digital collection workflows including the creation and organization of digital objects; metadata creation and assignment; collection building through both batch and online methods; and quality control measures.
               * Lead initiatives to design strategies, processes, workflows, content architectures, and standards for curating the digital content of faculty, staff, and students.
