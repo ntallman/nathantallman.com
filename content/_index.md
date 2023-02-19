@@ -36,37 +36,36 @@ sections:
           date_end: '2017-01-01'
           description: |2-
             Earned the academic rank of Associate Librarian.
-              * Lead a matrix team – library liaisons, archivists, records managers, technical librarians, repository developers, and other specialists (e.g., metadata, scholarly communication) – in the planning, budgeting, strategy formation, and creation of digital content.
-              * With the matrix team, coordinated or performed all aspects of various workflows for digital object creation; organization of born-digital objects; metadata creation and assignment; collection building through both batch and online methods; and quality control measures.
-              * With the matrix team lead initiatives to design strategies, processes, workflows, content architectures, and standards for developing the digital content of faculty, staff, and students.
-              * Worked with the repository development team and steering group, develops strategies for digital preservation of repository content, and teaming with archivists and liaisons integrates available preservation strategies into the curation of content.
-              * Coordinated and lead local efforts to develop a digital preservation policy framework and lifecycle diagrams of licensed and library-owned digital content, leading to the creation of a digital preservation policy for all library material.
-              * Partnered with special collections staff and managers of rare and unique library and archive collections, plans and executes large scale digitization projects, including participating in grant writing and fund raising for such projects and leading implementation teams.
-              * Planed, implemented, and co-managed on-site digitization facilities, develops workflows and standards for such facilities, and leads efforts to create sustainability strategies.
-              * Partnered with Digital Archivist/Records Manager to develop programs and provide support for digital forensics, website and social media archives, and archival information systems.
-              * Consulted with, provides training for, and shares expertise with colleagues involved in digital content and digital repositories.
-              * Participated in local, state and national digital library initiatives and committees, including formal partnerships with other institutions for the development of digital content
+              * Lead a matrix team of library liaisons, archivists, records managers, technical librarians, repository developers, and other specialists (e.g., metadata, scholarly communication) in the planning, budgeting, strategy formation, and creation of digital content.
+              * Coordinated or performed all aspects of digital collection workflows including the creation and organization of digital objects; metadata creation and assignment; collection building through both batch and online methods; and quality control measures.
+              * Lead initiatives to design strategies, processes, workflows, content architectures, and standards for curating the digital content of faculty, staff, and students.
+              * Worked with the repository development team and steering group to develop strategies for digital preservation of repository content and teamed with archivists and liaisons to integrate preservation strategies into the curation of digital content.
+              * Coordinated and lead efforts to develop a digital preservation policy framework and lifecycle diagrams of licensed and library-owned digital content, leading to the creation of a digital preservation policy for all library material.
+              * Partnered with special collections staff and managers of rare and unique library and archival collections, to plan and execute large scale digitization projects, including grant writing and fund raising.
+              * Planed, implemented, and co-managed on-site digitization facilities, developed workflows and standards for such facilities, and lead efforts to create sustainability strategies.
+              * Partnered with Digital Archivist/Records Manager to develop programs and provided support for digital forensics, website and social media archives, and archival information systems.
+              * Consulted with, provided training for, and shared expertise with colleagues involved in digital content and digital repositories.
+              * Participated in local, state and national digital library initiatives and committees, including formal partnerships with other institutions for the development of digital content.
 
         - title: Associate Archivist
-          company: American Jewish Archives
+          company: American Jewish Archives, Hebrew Union College-Jewish Institute of Religion
           company_url: 'https://www.americanjewisharchives.org/'
           company_logo:
           location: Cincinnati, Ohio
           date_start: '2010-02-01'
           date_end: '2013-12-01'
           description: |2-
-              *	Arranged and described content of complex collections, providing context of creation while adhering to professional standards (DACS, EAD) to ensure access by present, future, and cross-institutional users
-              *	Assisted on- and off-site researchers, answering reference questions to connect patrons with primary sources
-              *	Streamlined descriptive process through implementation of automated methods for creation of MARC records; EAD finding aids (including print and web derivatives); and labels for collection folders and boxes
-              *	Launched new online discovery layer, to replace outdated catalog, using open-source VuFind; integrating MARC records, institution website searching, and plans to include indexing of EAD and digital objects
-              *	Designed in-house MS Access databases for tracking Judaic conversions and publication requests
-              *	Implemented, configured, and managed Archivists Toolkit for collection management
-              *	Administered two Linux servers: a production server for AJA website and online catalog; and development server for new catalog features, database server (for Archivists Toolkit), internal access copies, and digital repository exploration
-              *	Lead planning for digital records and preservation, including accessioning, arrangement and description, geo-redundant backup, and medium-term planning with goal of launching digital repository
-              *	Developed workflow, procedures, and documentation for digitization of collection material to ensure consistency
-              *	Participated in records management planning for parent institution and sister organizations
-              *	Participated in special projects such as grant writing, exhibitions, and special events
-              *	Built, maintained, and updated institutional website, taking advantage of new web technologies
+              *	Arranged and described archival collections using professional standards (DACS, EAD) to ensure access by present and future users.
+              *	Assisted onsite and remote researchers, answering reference questions to connect patrons with primary sources.
+              *	Streamlined descriptive process through implementation of automated methods for creation of MARC records; EAD finding aids (including print and web derivatives); and labels for collection folders and boxes.
+              *	Launched new online discovery layer, to replace outdated catalog, using open-source VuFind; integrating MARC records, institution website searching, and indexing of finding aids and digital objects.
+              *	Designed local Microsoft Access databases for tracking Judaic conversions and publication requests.
+              *	Implemented, configured, and managed Archivists Toolkit for collection management.
+              *	Lead planning for digital collections and preservation, including accessioning, arrangement and description, and geo-redundant backup.
+              *	Developed workflows, procedures, and documentation for digitization of collections.
+              *	Participated in records management planning for parent institution and sister organizations.
+              *	Participated in special projects such as grant writing, exhibitions, and special events.
+              * Helped to design, maintain, and update institutional website.
 
         - title: Archives Processing Assistant
           company: State University of New York at Buffalo
@@ -76,12 +75,12 @@ sections:
           date_start: '2007-10-01'
           date_end: '2010-01-01'
           description: |2-
-            * Processed collections by surveying materials, identifying an organizational structure, arranging materials, conducting basic preservation work, and describing collections in finding aids
-            *	Preserved several formats and objects including photographs, slides, microfilm, video cassettes, audio cassettes, phonographs, CD-ROMs, DVDs, artifacts, maps, and exhibit materials
-            * Created finding aids and follow professional standards such as Describing Archives: A Content Standard (DACS)
+            * Processed collections by surveying materials, identifying an organizational structure, arranging materials, conducting basic preservation work, and describing collections in finding aids.
+            *	Preserved archival materials of several formats including photographs, slides, microfilm, video cassettes, audio cassettes, phonographs, CD-ROMs, DVDs, artifacts, maps, and exhibition materials.
+            * Created finding aids using professional standards such as Describing Archives: A Content Standard (DACS)
             * Encoded finding aids into Encoded Archival Description (EAD) using XMetal and NoteTab, edit code and validate to local best practices and principals
-            * Collaborated on an online digital collection of over 600 Love Canal images, including image selection, subject analysis, and metadata collection and input
-            * Staffed Special Collections reference desk to assists researchers
+            * Collaborated to build a digital collection of archival imags of the Love Canal environmental disaster, including selection, subject analysis, and metadata creation.
+            * Provided reference service to patrons in the Special Collections reading room and remote researchers.
     design:
       columns: '2'
   - block: portfolio
