@@ -7,8 +7,8 @@ first_name: Nathan
 last_name: Tallman
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,12 +22,12 @@ organizations:
     url: https://www.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed infrastructure, appraisal and selection, and documentation startegy.
+bio: Digital preservation practitioner interested in sustainable practices.
 
 # Interests to show in About widget
 interests:
   - Digital Preservation
-  - Cloud Computing
+  - Sustainable Infrastructure
   - Appraisal and Selection
 
 # Education to show in About widget
@@ -72,7 +72,20 @@ email: 'ntt7@psu.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+design:
+  columns: '2'
 ---
+I am currently the Digital Preservation Librarian at the [Penn State University Libraries](https://libraries.psu.edu). I coordinate policies, workflows and practices to ensure the long-term preservation and accessibility of the Libraries’ born-digital and digitized collections. I advise on equipment, infrastructure, and vendors for Penn State digital content.
+{style="text-align: left;"}
 
-Nathan Tallman is Digital Preservation Librarian at Penn State University. His research interests include distributed infrastructure, cloud computing, and appraisal and selection. He leads the digital preservation program at Penn State University Libraries.
-{style="text-align: justify;"}
+## Interests
+  * Sustainable distributed and cloud infrastructure
+  * Appraisal and selection for digital preservation
+  * Documentation strategies
+{style="text-align: left;"}
+
+## Education
+* Master of Library Science, State University of New York at Buffalo, May 2009
+* Bachelor of Science in Business Administration, State University of New York at Buffalo, December 2005
+* Associate of Science in Business Administration, Monroe County Community College, May 2004
+{style="text-align: left;"}

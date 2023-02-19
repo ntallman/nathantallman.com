@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: '#about'
     weight: 10
   - name: Blog
@@ -13,11 +13,11 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Presentations
-    url: '/presentations'
-    weight: 40
   - name: Publications
     url: '/publications'
+    weight: 40
+  - name: Talks
+    url: '/talks'
     weight: 50
   - name: Contact
     url: '#contact'

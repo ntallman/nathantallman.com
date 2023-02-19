@@ -11,9 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: |2-
-        Nathan Tallman is Digital Preservation Librarian at Penn State University. His research interests include distributed infrastructure, cloud computing, and appraisal and selection. He leads the digital preservation program at Penn State University Libraries. Interests. Education?
-
+      text:
   - block: experience
     content:
       title: Experience
@@ -27,10 +25,8 @@ sections:
           date_start: '2017-02-01'
           date_end: ''
           description: |2-
-              Academic rank of Assistant Librarian. Responsibilities include:
-              * Analyzing
-              * Modelling
-              * Deploying
+              Currently the academic rank of Assistant Librarian.
+
         - title: Digital Content Strategist
           company: University of Cincinnati
           company_url: 'https://libraries.uc.edu/'
@@ -39,7 +35,18 @@ sections:
           date_start: '2014-01-01'
           date_end: '2017-01-01'
           description: |2-
-              Academic rank of Associate Librarian.
+            Earned the academic rank of Associate Librarian.
+              * Lead a matrix team – library liaisons, archivists, records managers, technical librarians, repository developers, and other specialists (e.g., metadata, scholarly communication) – in the planning, budgeting, strategy formation, and creation of digital content.
+              * With the matrix team, coordinated or performed all aspects of various workflows for digital object creation; organization of born-digital objects; metadata creation and assignment; collection building through both batch and online methods; and quality control measures.
+              * With the matrix team lead initiatives to design strategies, processes, workflows, content architectures, and standards for developing the digital content of faculty, staff, and students.
+              * Worked with the repository development team and steering group, develops strategies for digital preservation of repository content, and teaming with archivists and liaisons integrates available preservation strategies into the curation of content.
+              * Coordinated and lead local efforts to develop a digital preservation policy framework and lifecycle diagrams of licensed and library-owned digital content, leading to the creation of a digital preservation policy for all library material.
+              * Partnered with special collections staff and managers of rare and unique library and archive collections, plans and executes large scale digitization projects, including participating in grant writing and fund raising for such projects and leading implementation teams.
+              * Planed, implemented, and co-managed on-site digitization facilities, develops workflows and standards for such facilities, and leads efforts to create sustainability strategies.
+              * Partnered with Digital Archivist/Records Manager to develop programs and provide support for digital forensics, website and social media archives, and archival information systems.
+              * Consulted with, provides training for, and shares expertise with colleagues involved in digital content and digital repositories.
+              * Participated in local, state and national digital library initiatives and committees, including formal partnerships with other institutions for the development of digital content
+
         - title: Associate Archivist
           company: American Jewish Archives
           company_url: 'https://www.americanjewisharchives.org/'
@@ -60,6 +67,7 @@ sections:
               *	Participated in records management planning for parent institution and sister organizations
               *	Participated in special projects such as grant writing, exhibitions, and special events
               *	Built, maintained, and updated institutional website, taking advantage of new web technologies
+
         - title: Archives Processing Assistant
           company: State University of New York at Buffalo
           company_url: 'https://library.buffalo.edu/'
@@ -117,10 +125,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Presentations
+      title: Recent & Upcoming Talks
       filters:
         folders:
-          - presentations
+          - talks
     design:
       columns: '2'
       view: compact
