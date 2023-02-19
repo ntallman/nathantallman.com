@@ -25,7 +25,13 @@ sections:
           date_start: '2017-02-01'
           date_end: ''
           description: |2-
-              * Something
+              * Leads development of an effective and achievable strategy to create a cohesive digital preservation program.
+              * Responsible for infrastructure planning; the design, implementation, and management of policies, practices, and workflows; for the long-term protection of, and access to, digital materials created and acquired by University Libraries.
+              * Represents Penn State University in digital preservation networks and consortia, such as the Academic Preservation Trust, MetaArchive Cooperative, and the Big Ten Academic Alliance.
+              * Serves as resource expert in digital content management, establishes and improves workflows, seeks to integrate systems, and bring efficiencies to repository management.
+              * Supervises professional staff supporting the digital preservation program.
+              * Liaises and consults with other University departments on digital curation.
+              * Maintains knowledge of digital preservation best practices, trends, and technologies.
 
         - title: Digital Content Strategist, Associate Librarian
           company: University of Cincinnati
