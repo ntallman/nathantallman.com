@@ -2,9 +2,8 @@
 title: 'Tools and Workflows for Bit-Level Digital Preservation Strategy at the University of Cincinnati'
 summary: 'Digital preservation is a complex, highly technical activity. Large institutions with many collections in multiple repositories (or repository-like systems) may find it challenging to corral digital collections, preservation masters and metadata into coherent archival information packages for preservation storage. This paper describes the tools and workflows for a bit-level preservation strategy for digital content at the University of Cincinnati Libraries and lessons learned on the way.'
 authors: [admin, Linda Newman]
-tags:  [digital preservation, preservation storage, distributed preservation,
-workflows, lessons learned]
-categories: []
+tags:  [storage, distributed preservation, workflows, lessons learned]
+categories: [Peer Reviewed]
 date: '2019-01-01'
 lastmod: 2023-02-19T12:55:39-05:00
 featured: false

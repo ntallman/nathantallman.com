@@ -30,8 +30,6 @@ sections:
               * Represents Penn State University in digital preservation networks and consortia, such as the Academic Preservation Trust, MetaArchive Cooperative, and the Big Ten Academic Alliance.
               * Serves as resource expert in digital content management, establishes and improves workflows, seeks to integrate systems, and bring efficiencies to repository management.
               * Supervises professional staff supporting the digital preservation program.
-              * Liaises and consults with other University departments on digital curation.
-              * Maintains knowledge of digital preservation best practices, trends, and technologies.
 
         - title: Digital Content Strategist, Associate Librarian
           company: University of Cincinnati
@@ -41,16 +39,10 @@ sections:
           date_start: '2014-01-01'
           date_end: '2017-01-01'
           description: |2-
-              * Facilitated a matrix team of library liaisons, archivists, records managers, technical librarians, repository developers, and other specialists (e.g., metadata, scholarly communication) in the planning, budgeting, strategy formation, and creation of digital content.
+              * Facilitated a matrix team of library liaisons, archivists, records managers, technical librarians, repository developers, and other specialists (e.g., metadata, scholarly communication) in the planning, budgeting, strategy formation, and creation of digital content. Planed, implemented, and co-managed on-site digitization facilities.
               * Coordinated or performed all aspects of digital collection workflows including the creation and organization of digital objects; metadata creation and assignment; collection building through both batch and online methods; and quality control measures.
-              * Lead initiatives to design strategies, processes, workflows, content architectures, and standards for curating the digital content of faculty, staff, and students.
-              * Worked with the repository development team and steering group to develop strategies for digital preservation of repository content and teamed with archivists and liaisons to integrate preservation strategies into the curation of digital content.
-              * Coordinated and lead efforts to develop a digital preservation policy framework and lifecycle diagrams of licensed and library-owned digital content, leading to the creation of a digital preservation policy for all library material.
+              * Lead efforts to develop a digital preservation policy framework and lifecycle diagrams of licensed and library-owned digital content, leading to the creation of a digital preservation policy for all library material.
               * Partnered with special collections staff and managers of rare and unique library and archival collections, to plan and execute large scale digitization projects, including grant writing and fund raising.
-              * Planed, implemented, and co-managed on-site digitization facilities, developed workflows and standards for such facilities, and lead efforts to create sustainability strategies.
-              * Partnered with Digital Archivist/Records Manager to develop programs and provided support for digital forensics, website and social media archives, and archival information systems.
-              * Consulted with, provided training for, and shared expertise with colleagues involved in digital content and digital repositories.
-              * Participated in local, state and national digital library initiatives and committees, including formal partnerships with other institutions for the development of digital content.
 
         - title: Associate Archivist
           company: American Jewish Archives, Hebrew Union College-Jewish Institute of Religion
@@ -60,17 +52,10 @@ sections:
           date_start: '2010-02-01'
           date_end: '2013-12-01'
           description: |2-
-              *	Arranged and described archival collections using professional standards (DACS, EAD) to ensure access by present and future users.
-              *	Assisted onsite and remote researchers, answering reference questions to connect patrons with primary sources.
+              *	Arranged and described archival collections using professional standards (DACS, EAD) to ensure access by present and future users. Implemented, configured, and managed Archivists Toolkit for collection management.
               *	Streamlined descriptive process through implementation of automated methods for creation of MARC records; EAD finding aids (including print and web derivatives); and labels for collection folders and boxes.
-              *	Launched new online discovery layer, to replace outdated catalog, using open-source VuFind; integrating MARC records, institution website searching, and indexing of finding aids and digital objects.
-              *	Designed local Microsoft Access databases for tracking Judaic conversions and publication requests.
-              *	Implemented, configured, and managed Archivists Toolkit for collection management.
-              *	Lead planning for digital collections and preservation, including accessioning, arrangement and description, and geo-redundant backup.
-              *	Developed workflows, procedures, and documentation for digitization of collections.
-              *	Participated in records management planning for parent institution and sister organizations.
-              *	Participated in special projects such as grant writing, exhibitions, and special events.
-              * Helped to design, maintain, and update institutional website.
+              *	Built online discovery layer using open-source VuFind for searching online catalog, website, finding aids, and digital objects.
+              *	Coordinated management of digital collections and their preservation by developing workflows, procedures, and documentation.
 
         - title: Processing Assistant
           company: State University of New York at Buffalo
@@ -81,10 +66,8 @@ sections:
           date_end: '2010-01-01'
           description: |2-
             * Processed collections by surveying materials, identifying an organizational structure, arranging materials, conducting basic preservation work, and describing collections in finding aids.
-            *	Preserved archival materials of several formats including photographs, slides, microfilm, video cassettes, audio cassettes, phonographs, CD-ROMs, DVDs, artifacts, maps, and exhibition materials.
-            * Created finding aids using professional standards such as Describing Archives: A Content Standard (DACS)
-            * Encoded finding aids into Encoded Archival Description (EAD) using XMetal and NoteTab, edit code and validate to local best practices and principals
-            * Collaborated to build a digital collection of archival imags of the Love Canal environmental disaster, including selection, subject analysis, and metadata creation.
+            * Created finding aids using professional standards such as Describing Archives: A Content Standard (DACS) and encoded finding aids into Encoded Archival Description (EAD).
+            * Collaborated to build a digital collection of archival images of the Love Canal environmental disaster, including selection, subject analysis, and metadata creation.
             * Provided reference service to patrons in the Special Collections reading room and remote researchers.
     design:
       columns: '2'
