@@ -17,10 +17,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 authors: [admin, Glenn Heinle]
 tags: [sustainability, distributed digital preservation]
-featured: true
-image:
-  caption: 'Image credit: [**Wally Gobetz**](https://www.flickr.com/photos/wallyg/3659018552)'
-  focal_point: Right
+featured: false
 url_pdf: ''
 url_slides: ''
 url_video: ''
