@@ -99,20 +99,21 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
   - block: collection
-    id: featured
+    id: publications
     content:
-      title: Featured Publications
+      title: Recent Publications
+      count: 1
       filters:
         folders:
           - publications
-        featured_only: true
     design:
       columns: '2'
       view: card
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks
+      count: 1
       filters:
         folders:
           - talks

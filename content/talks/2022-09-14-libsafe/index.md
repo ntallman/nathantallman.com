@@ -12,7 +12,8 @@ abstract: Before starting a digital preservation project (an OAIS-aligned long-t
 date: 2022-09-14
 publishDate: '2017-01-01T00:00:00Z'
 authors: [Jessica Knight, admin, Mark Hobbs, Mui Huay Ho, Driek Heesakkers, Teo Redondo]
-tags: []
+tags: [Repositories, Lessons Learned]
+categories: [Peer Reviewed]
 featured: false
 url_pdf: ''
 url_slides: ''
@@ -29,4 +30,4 @@ In this panel, representatives of institutions from different GLAM sectors from 
 Knight, J., Tallman, N. T., Hobbs, M., Huay Ho, M., Heesakkers, D., Redondo, T. (September 14, 2022).
 "Lessons Learned During the Implementation of a Digital Preservation Project: Experiences from
 Europe, USA, and Asia," iPRES 2022, International Conference on Digital Preservation 2022,
-Glasgow, Scotland, to be published in proceedings. DOI: [10.17605/OSF.IO/8ADFX](https://10.17605/OSF.IO/8ADFX)
+Glasgow, Scotland. DOI: [10.17605/OSF.IO/8ADFX](https://10.17605/OSF.IO/8ADFX)
