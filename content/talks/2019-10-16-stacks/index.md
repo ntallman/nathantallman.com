@@ -11,6 +11,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors: [admin]
 tags: [storage, software defined storage, infrastructure, integrity]
 categories: [Peer Reviewed]
+projects: [mycelium]
 featured: false
 url_slides: 'https://osf.io/download/wv6dn/'
 doi: 10.17605/OSF.IO/V4TGW

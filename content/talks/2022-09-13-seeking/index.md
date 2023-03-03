@@ -10,8 +10,9 @@ abstract: "As modern commercial developments in storage infrastructure mature an
 date: '2022-09-14'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [admin, Hannah Wang]
-tags: [Distributed Infrastructure, Sustainability, Software Defined Storage, Inclusion]
+tags: [Distributed Infrastructure, Sustainability, Software Defined Storage, MetaArchive]
 categories: [Peer Reviewed]
+projects: [mycelium]
 featured: false
 url_pdf: ''
 url_slides: 'https://osf.io/download/rft73/'

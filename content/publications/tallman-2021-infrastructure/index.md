@@ -15,5 +15,6 @@ abstract: 'Digital preservation systems and practices are rooted in research and
 publication: '*Information Technology and Libraries*'
 doi: '10.6017/ital.v40i4.13355'
 url_pdf: 'https://ejournals.bc.edu/index.php/ital/article/view/13355/10731'
+projects: [mycelium]
 ---
 Tallman, N. (2021). A 21st Century Technical Infrastructure for Digital Preservation. *Information Technology and Libraries*, *40*(4). https://doi.org/10.6017/ital.v40i4.13355

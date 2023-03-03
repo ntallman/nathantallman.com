@@ -9,7 +9,7 @@ abstract: "We preserve our collections, but like the cobbler’s children withou
 date: '2019-04-29'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [admin, Sam Meister, Carly Dearborn]
-tags: [documentation]
+tags: [documentation, MetaArchive]
 categories: [Peer Reviewed, Workshop]
 featured: false
 url_slides: 'https://scholarsphere.psu.edu/resources/244427dc-9362-4ea9-8459-a90cd0ce8d7b/downloads/1382'
