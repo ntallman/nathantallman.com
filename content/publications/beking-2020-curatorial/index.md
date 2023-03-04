@@ -5,7 +5,6 @@ authors: [Angela Beking, Bradley Daigle, Ian Collins, Tawnya Keller, Donald Menn
 tags: [NDSA, digital curation, guidance]
 categories: [Report]
 date: '2020-12-15'
-lastmod: 2023-02-19T12:55:39-05:00
 featured: false
 draft: false
 projects: []

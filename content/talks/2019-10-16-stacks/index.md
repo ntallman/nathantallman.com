@@ -9,7 +9,7 @@ abstract: "This talk will look 5 and 10 years into the future, examining alterna
 date: '2019-10-16'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [admin]
-tags: [storage, software defined storage, infrastructure, integrity]
+tags: [storage, software defined storage, infrastructure, integrity, NDSA]
 categories: [Peer Reviewed]
 projects: [mycelium]
 featured: false

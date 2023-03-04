@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Nathan Tallman
 date: 2023-02-19
 type: landing
 
@@ -84,7 +84,7 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      count: 1
+      count: 2
       filters:
         folders:
           - publications
@@ -95,7 +95,7 @@ sections:
     id: talks
     content:
       title: Recent Talks
-      count: 1
+      count: 2
       filters:
         folders:
           - talks

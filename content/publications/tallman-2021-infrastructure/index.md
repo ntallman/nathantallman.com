@@ -5,7 +5,6 @@ authors: [admin]
 tags: [distributed infrastructure, storage, software defined storage, serverless]
 categories: [Peer Reviewed]
 date: '2021-12-20'
-lastmod: 2023-02-19T12:55:39-05:00
 featured: false
 draft: false
 publishDate: '2023-02-19T17:55:39.564555Z'

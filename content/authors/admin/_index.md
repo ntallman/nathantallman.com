@@ -84,5 +84,3 @@ I am the Digital Preservation Librarian at the [Penn State University Libraries]
   * Bachelor of Science in Business Administration, State University of New York at Buffalo, December 2005
   * Associate of Science in Business Administration, Monroe County Community College, May 2004
 {style="text-align: left;"}
-
-<img src="/images/graduation-cap-solid.svg" width="32" height="40">

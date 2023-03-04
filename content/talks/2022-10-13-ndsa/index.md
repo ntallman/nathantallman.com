@@ -11,7 +11,7 @@ abstract: Fixity is often practiced as a one-size fits all approach for demonstr
 date: '2022-10-13'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [admin]
-tags: [Fixity, Integrity, Sustainability]
+tags: [Fixity, Integrity, Sustainability, NDSA]
 categories: [Peer Reviewed]
 featured: true
 url_pdf: ''

@@ -5,7 +5,7 @@ abstract: "The MetaArchive Cooperative is exploring new technologies to engage i
 date: '2021-11-04'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [Nathan Hall, admin, Alex Kinnaman]
-tags: [Distributed Infrastructure, Sustainability, Software Defined Storage, MetaArchive]
+tags: [Distributed Infrastructure, Sustainability, Software Defined Storage, MetaArchive, NDSA]
 categories: [Peer Reviewed]
 projects: [mycelium]
 featured: false

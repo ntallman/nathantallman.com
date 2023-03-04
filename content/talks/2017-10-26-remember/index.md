@@ -9,7 +9,7 @@ abstract: "In recent years, media outlets have reported that the 21st Century ma
 date: '2017-10-26'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [admin]
-tags: [privacy, right to be forgotten]
+tags: [right to be forgotten, privacy ethics, NDSA]
 categories: [Peer Reviewed]
 featured: false
 url_slides: 'https://osf.io/download/w5qyz/'

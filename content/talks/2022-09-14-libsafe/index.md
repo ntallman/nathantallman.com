@@ -12,7 +12,7 @@ abstract: Before starting a digital preservation project (an OAIS-aligned long-t
 date: 2022-09-14
 publishDate: '2017-01-01T00:00:00Z'
 authors: [Jessica Knight, admin, Mark Hobbs, Mui Huay Ho, Driek Heesakkers, Teo Redondo]
-tags: [Repositories, Lessons Learned]
+tags: [Repositories, Lessons Learned, iPRES]
 categories: [Peer Reviewed]
 featured: false
 url_pdf: ''

@@ -9,7 +9,7 @@ abstract: "Panelists will discuss the implementation of digital preservation pla
 date: '2017-10-26'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [Joe Carrano, Salwa Ismail, Linda Newman, admin]
-tags: [workflows, automation]
+tags: [workflows, automation, APTrust]
 categories: [Peer Reviewed]
 featured: false
 url_slides: 'https://osf.io/download/g46uj/'

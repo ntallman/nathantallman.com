@@ -9,7 +9,7 @@ abstract: "Work and Tallman researched and wrote an approach aimed toward select
 date: '2018-10-16'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [admin, Lauren Work]
-tags: [appraisal, selection]
+tags: [appraisal, selection, NDSA]
 categories: [Peer Reviewed]
 featured: false
 url_slides: 'https://osf.io/download/mj4t6/'

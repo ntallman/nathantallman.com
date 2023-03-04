@@ -8,8 +8,8 @@ address:
 abstract: "Presentation given at iPRES 2015 workshop, 'Using Open-Source Tools to Fulfill Digital Preservation Requirements.'"
 date: '2016-11-06'
 publishDate: '2017-01-01T00:00:00Z'
-authors: []
-tags: []
+authors: [admin]
+tags: [open-source, workflows, APTrust, iPRES]
 categories: [Peer Reviewed]
 featured: false
 url_slides: 'https://scholar.uc.edu/downloads/05741r965?locale=en'

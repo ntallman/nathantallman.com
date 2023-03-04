@@ -5,7 +5,7 @@ abstract: "Selection for digital preservation should be a collaborative endeavor
 date: '2020-11-12'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [Lauren Work, admin, Mike Shallcross, Courtney Mumma]
-tags: [appraisal, selection]
+tags: [appraisal, selection, NDSA]
 categories: [Peer Reviewed]
 featured: false
 url_pdf: ''

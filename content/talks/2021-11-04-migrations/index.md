@@ -6,7 +6,7 @@ abstract: '"Good Migrations: A Checklist for Migrating Your Digital Preservation
 date: '2021-11-04'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [Sibyl Schaefer, Matt Schultz, Linda Tadic, admin, Paige Walker]
-tags: [Storage, Infrastructure, Migrations]
+tags: [Storage, Infrastructure, Migrations, NDSA]
 categories: [Peer Reviewed]
 featured: false
 url_pdf: ''

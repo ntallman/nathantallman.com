@@ -9,7 +9,7 @@ abstract: "Digital preservation practitioners are often asked to make collection
 date: '2018-09-26'
 publishDate: '2017-01-01T00:00:00Z'
 authors: [admin, Lauren Work]
-tags: [selection, appraisal]
+tags: [selection, appraisal, iPRES]
 categories: [Peer Reviewed]
 featured: false
 url_slides: 'https://osf.io/download/6pkfr/'
