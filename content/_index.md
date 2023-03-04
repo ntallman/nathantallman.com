@@ -72,12 +72,12 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: projects
+    id: research
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
-          - projects
+          - research
     design:
       columns: '2'
   - block: collection
