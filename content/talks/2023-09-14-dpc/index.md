@@ -2,8 +2,8 @@
 title: "Versioning your Documentation: Remembering Why You Used to Do Something ‘That Way’"
 event: "Documenting Digital Preservation: A workshop"
 event_url: https://www.dpconline.org/events/eventdetail/197/-/documenting-digital-preservation-a-workshop
-summary: "Guide to use git to author, manage, and version digital preservation documentation."
-abstract: "Guide to use git to author, manage, and version digital preservation documentation."
+summary: "Guide to using git to author, manage, and version digital preservation documentation."
+abstract: "Guide to using git to author, manage, and version digital preservation documentation."
 date: '2023-09-14'
 publishDate: '2023-09-14T00:00:00Z'
 authors: [admin]
