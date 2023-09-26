@@ -17,7 +17,7 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
-        - title: Digital Preservation Librarian, Assistant Librarian
+        - title: Digital Preservation Librarian, Associate Librarian
           company: Penn State University
           company_url: 'https://libraries.psu.edu/'
           company_logo:
