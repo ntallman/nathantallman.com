@@ -17,19 +17,33 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
+        - title: Executive Director of Academic Preservation Trust at University of Virginia
+          company: Academic Preservation Trust
+          company_url: 'https://aptrust.org/'
+          location: Charlottesville, Virginia
+          date_start: '2024-01-01'
+          description: |2-
+              * Articulation of a vision and execution of strategic management for a community-owned distributed digital preservation service.
+              * Development of strategies to achieve APTrust’s vision, with regular assessment of outcomes to assure the long-term financial and operational health of the enterprise.
+              * Effective management of projects and staff, augmented by contributors from member institutions and consulting entities when needed.
+              * Evaluation of service proposals, design of fee structures to support them, and provision of regular status and financial reports to the Board.
+              * Regular engagement with Sustaining Members and other interested parties, and exploration of collaborations with related entities such as the Digital Preservation Coalition, the National Digital Stewardship Alliance, and the Digital Preservation Services Collaborative.
+              * Coordination of the consortium’s activity in digital preservation research that aligns with APTrust’s mission and is financially prudent.
+              * Operational oversight of APTrust preservation-repository operations, including the development of plans and processes for the lifecycle of deposited content and the integration of digital preservation processes at existing and prospective APTrust member institutions.
+
         - title: Digital Preservation Librarian, Associate Librarian
           company: Penn State University
           company_url: 'https://libraries.psu.edu/'
           company_logo:
           location: University Park, Pennsylvania
           date_start: '2017-02-01'
-          date_end: ''
+          date_end: '2023-12-31'
           description: |2-
-              * Leads development of an effective and achievable strategy to create a cohesive digital preservation program.
+              * Lead development of an effective and achievable strategy to create a cohesive digital preservation program.
               * Responsible for infrastructure planning; the design, implementation, and management of policies, practices, and workflows; for the long-term protection of, and access to, digital materials created and acquired by University Libraries.
-              * Represents Penn State University in digital preservation networks and consortia, such as the Academic Preservation Trust, MetaArchive Cooperative, and the Big Ten Academic Alliance.
-              * Serves as resource expert in digital content management, establishes and improves workflows, seeks to integrate systems, and bring efficiencies to repository management.
-              * Supervises professional staff supporting the digital preservation program.
+              * Represented Penn State University in digital preservation networks and consortia, such as the Academic Preservation Trust, MetaArchive Cooperative, and the Big Ten Academic Alliance.
+              * Served as resource expert in digital content management, establishes and improves workflows, seeks to integrate systems, and bring efficiencies to repository management.
+              * Supervised professional staff supporting the digital preservation program.
 
         - title: Digital Content Strategist, Associate Librarian
           company: University of Cincinnati

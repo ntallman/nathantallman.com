@@ -14,15 +14,15 @@ last_name: Tallman
 superuser: true
 
 # Role/position/tagline
-role: Digital Preservation Librarian
+role: Executive Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Penn State University
-    url: https://www.psu.edu/
+  - name: Academic Preservation Trust
+    url: https://aptrust.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital preservation practitioner interested in sustainable practices.
+bio: Executive Director, Academic Preservation Trust
 
 # Interests to show in About widget
 interests:
@@ -68,7 +68,7 @@ social:
     link: uploads/tallman_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ntt7@psu.edu'
+email: 'ntallman@aptrust.org'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -76,7 +76,7 @@ highlight_name: true
 My philosophy on digital preservation is two-fold. First, **good stewardship is fiduciarily responsible**, regardless of an organization's resources. Without sustainable strategies, resources required for digital preservation can easily escalate and eventually put the organization’s mission at risk. Second, **a successful digital preservation program is an embedded culture**. Digital preservation requires all stakeholders to have the shared understanding that nearly every aspect of the creation and management of digital content has preservation implications. As a collaborative leader, I engage stakeholders to develop this understanding.
 {style="text-align: left;"}
 
-I am the Digital Preservation Librarian at the [Penn State University Libraries](https://libraries.psu.edu). I coordinate policies, workflows and practices to ensure the long-term preservation and accessibility of the Libraries' born-digital and digitized collections. I advise on equipment, infrastructure, and vendors for Penn State digital content.
+I am the Executive Director of [Academic Preservation Trust](https://aptrust.org). I articulate a vision and execute strategic management for a community-owned distributed digital preservation service. I provide operational oversight of APTrust operations, including the development of plans and processes for the lifecycle of deposited content and the integration of digital preservation processes at existing and prospective APTrust member institutions.
 {style="text-align: left;"}
 
 ## Education
