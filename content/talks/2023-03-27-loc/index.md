@@ -16,4 +16,4 @@ url_slides: 'https://www.digitalpreservation.gov/meetings/DSA2023/loc_dsa2023_we
 #doi: 10.17605/OSF.IO/CGBW5
 ---
 
-Heinle, G. & Tallman, N. (March 28, 2023). "Project Mycelium: Next Generation Distributed Digital Preservation," Society of American Archivists-Archivists of Religious Collections Lunch and Learn [Webinar]. Designing Storage Architectures for Digital Collections 2023, Library of Congress.
+Heinle, G. & Tallman, N. (March 28, 2023). "Project Mycelium: Next Generation Distributed Digital Preservation," Designing Storage Architectures for Digital Collections 2023, Library of Congress.

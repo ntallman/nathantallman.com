@@ -122,17 +122,9 @@ sections:
       title: Contact
       subtitle:
       text:
-      email: ntt7@psu.edu
-      phone: 814-865-0860
-      appointment_url: 'https://outlook.office.com/bookwithme/user/5dac012c04834c74a229fc574bc93cff@psu.edu?anonymous&ep=plink'
-      address:
-        street: 402 Central Pattee Library
-        city: University Park
-        region: PA
-        postcode: '16866'
-        country: United States
-        country_code: US
-      # Automatically link email and phone or display as text?
+      email: nathan.tallman@aptrust.org
+      phone: 434-924-4582
+      appointment_url: 'https://scheduler.zoom.us/ntallman'
       autolink: true
     design:
       columns: '2'
